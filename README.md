@@ -1,4 +1,4 @@
-## ![cLogo](https://github.com/Mdzaidsiddique/Alif-Medicaments-Tata-1mg-Clone-/assets/87862008/e3c96a44-c0b9-43c9-a3ad-d2205d2b9220)
+CapStone
 
 A construct week project where I had to clone the Tata 1mg website within a duration of 5 days.
 
@@ -36,4 +36,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ## Contact
 
-For any questions or inquiries, please contact [45.mdzaid@gmail.com].
+For any questions or inquiries, please contact Manishraghav100@gmail.com
+
+
