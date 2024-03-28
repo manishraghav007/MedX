@@ -1,6 +1,8 @@
-CapStone
+Capstone
+Title: MedX - Your Medical Companion
 
-A construct week project where I had to clone the Tata 1mg website within a duration of 5 days.
+
+MedX is a revolutionary medical companion app that puts your health at your fingertips. With MedX, you can easily manage all aspects of your health journey, from tracking medications and appointments to accessing reliable health information and connecting with healthcare professionals. The app features intuitive interfaces for medication reminders, symptom tracking, and appointment scheduling, ensuring you never miss an important dose or doctor's visit. Additionally, MedX offers a comprehensive library of health articles and resources, curated by medical experts, to empower users with knowledge about their conditions and treatments. Whether you're managing a chronic illness or simply staying proactive about your well-being, MedX is your trusted ally in achieving optimal health outcomes. Download MedX now and take charge of your health with confidence.
 
 ## About Website :
 
