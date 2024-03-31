@@ -1,22 +1,62 @@
 
 
-#navbar{
-    /* border: 1px solid red; */
-    display: flex;
-    align-items: center;
-    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px; 
-    justify-content: space-around;  
-}
-#nbr{
+#navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
+    background-color: #fff; /* Background color */
+    padding: 10px 20px; /* Add padding */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    border-radius: 5px; /* Add some border radius for a softer look */
 }
+#navbar a {
+    text-decoration: none;
+    color: #333; /* Text color */
+    font-weight: bold;
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+#navbar a:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+#nbr {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #b9e4b9; /* Background color */
+    padding: 10px 20px; /* Add padding */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    border-radius: 5px; /* Add some border radius for a softer look */
+}
+#nbr a {
+    text-decoration: none;
+}
+#nbr button {
+    padding: 10px 20px; /* Add padding */
+  
+    border-radius: 50px; /* Add border radius */
+    font-size: 16px; /* Font size */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .btn{
-    background-color: #ff6f61;
+    background-color: #000000;
     border: none;
-    color: white;
+    color: rgb(253, 253, 253);
     border-radius: 2px;
     cursor: pointer;
 }
