@@ -43,16 +43,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 .btn{
     background-color: #000000;
     border: none;
@@ -150,22 +140,61 @@
     margin: auto;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
+
+
+
+
 #secondLastdiv{
     text-align: center;
     padding: 20px;
     margin: 30px;
 }
-#c{
-    font-size: x-large;
-}
-#inside{
+#secondLastdiv {
+    font-family: Arial, sans-serif; /* Change font family */
+  }
+  
+  #c {
+    font-size: 24px; /* Adjust font size */
+  }
+  
+  #inside {
     display: flex;
-    justify-content: space-around;
-}
-#inside h1{
-    margin-bottom: -15px;
-    font-size: xx-large;
-}
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #inside div {
+    margin-bottom: 20px; /* Add space between divs */
+  }
+  
+  #inside h1 {
+    margin-bottom: 5px;
+    font-size: 28px;
+  }
+  
+#inside {
+    display: flex;
+    /* flex-direction: row; Change flex direction to row */
+    /* justify-content: space-between; Add space between items */
+  }
+  
+  #inside p {
+    font-size: 16px; /* Adjust paragraph font size */
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #ccc; /* Add border color */
+    width: 100%; /* Full width */
+    margin: 20px 0; /* Add space above and below */
+  }
+  
+
+
+
+
+
+
 #get{
     display: flex;
     margin: 30px;
